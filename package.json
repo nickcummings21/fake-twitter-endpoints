@@ -1,0 +1,22 @@
+{
+  "name": "fake-twitter-endpoints",
+  "version": "1.0.0",
+  "description": "Endpoints for fake twitter client",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickcummings21/fake-twitter-endpoints.git"
+  },
+  "author": "Nick Cummings",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nickcummings21/fake-twitter-endpoints/issues"
+  },
+  "homepage": "https://github.com/nickcummings21/fake-twitter-endpoints#readme",
+  "dependencies": {
+    "aws-sdk": "^2.560.0"
+  }
+}
