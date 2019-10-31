@@ -10,6 +10,7 @@
 
 # vscode
 .vscode
+/dist
 
 # production
 /build
